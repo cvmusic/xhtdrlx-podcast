@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[Xuân Hạ Thu Đông, rồi lại Xuân - Season 2]]></title>
+		<description><![CDATA[#XHTĐRLX mùa 2 nay đã có trên Spotify!
+
+Chương trình lên sóng vào 𝟮𝟬:𝟬𝟬 tối thứ 𝟲 hàng tuần trên 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 𝗙𝗢𝗥𝗘𝗦𝗧 𝗦𝗧𝗨𝗗𝗜𝗢, từ ngày 𝟮𝟯/𝟬𝟵/𝟮𝟬𝟮𝟮.]]></description>
+		<link>https://anchor.fm/xhtdrlx-s2</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/33427985/33427985-1667437284671-4cd989c88d4dc.jpg</url>
+			<title>Xuân Hạ Thu Đông, rồi lại Xuân - Season 2</title>
+			<link>https://anchor.fm/xhtdrlx-s2</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Fri, 04 Nov 2022 14:31:58 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/c7d7a524/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[XHTĐRLX]]></author>
+		<copyright><![CDATA[XHTĐRLX]]></copyright>
+		<language><![CDATA[vi]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>XHTĐRLX</itunes:author>
+		<itunes:summary>#XHTĐRLX mùa 2 nay đã có trên Spotify!
+
+Chương trình lên sóng vào 𝟮𝟬:𝟬𝟬 tối thứ 𝟲 hàng tuần trên 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 𝗙𝗢𝗥𝗘𝗦𝗧 𝗦𝗧𝗨𝗗𝗜𝗢, từ ngày 𝟮𝟯/𝟬𝟵/𝟮𝟬𝟮𝟮.</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>XHTĐRLX</itunes:name>
+			<itunes:email>cvmusic.distribution@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Arts">
+			<itunes:category text="Performing Arts"/>
+		</itunes:category>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/33427985/33427985-1667437284671-4cd989c88d4dc.jpg"/>
+		<item>
+			<title><![CDATA[Tình Yêu Màu Nắng - Min, Trúc Nhân | Tập 4]]></title>
+			<description><![CDATA[Tình Yêu Màu Nắng by Min, Trúc Nhân
+]]></description>
+			<link>https://anchor.fm/xhtdrlx-s2/episodes/Tnh-Yu-Mu-Nng---Min--Trc-Nhn--Tp-4-e1q5g6k</link>
+			<guid isPermaLink="false">156092bb-62d0-4cb1-9418-2e3e8a7663f2</guid>
+			<dc:creator><![CDATA[XHTĐRLX]]></dc:creator>
+			<pubDate>Thu, 03 Nov 2022 01:12:51 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/c7d7a524/podcast/play/59997844/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2022-10-3%2F294674498-44100-2-8f67136c45df8.mp3" length="4271395" type="audio/mpeg"/>
+			<itunes:summary>Tình Yêu Màu Nắng by Min, Trúc Nhân
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:04:15</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/33427985/33427985-1667437284671-4cd989c88d4dc.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
